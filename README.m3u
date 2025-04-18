@@ -92,7 +92,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-http://tvking.xyz:8080/live/erny7/kng243/8453.m3u8
+https://aseanic.github.io/hls/37.m3u8
 
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="MALAYSIA" tvg-id="113.astro" tvg-logo="https://get.perfecttv.net/logo/aura.png" ,122 Aura
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -620,7 +620,7 @@ http://tvking.xyz:8080/live/erny7/kng243/8648.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkeyhttps://get.perfecttv.net/logo/premierleaguefhd.png](https://www.appcreator24.com/srv/imgs/seccs/34479229_ico.png?ts=1743780204)",805 EPL FHD
 #KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
-http://tvking.xyz:8080/live/erny7/kng243/19067.m3u8
+https://l01.dp.sooka.my/5099/linear/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34492668_ico.png?ts=1743924067",804 Arena Bola 2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive

@@ -620,7 +620,7 @@ http://tvking.xyz:8080/live/erny7/kng243/8648.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkeyhttps://get.perfecttv.net/logo/premierleaguefhd.png](https://www.appcreator24.com/srv/imgs/seccs/34479229_ico.png?ts=1743780204)",805 EPL FHD
 #KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
-https://l01.dp.sooka.my/5099/linear/index.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34492668_ico.png?ts=1743924067",804 Arena Bola 2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
